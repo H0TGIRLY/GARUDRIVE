@@ -1,0 +1,6 @@
+{
+  "name": "GARUDRIVE",
+  "description": "Simulator Edukatif 3D Interaktif Mobil Otonom AI - Masa Depan Berkendara, Dikendalikan AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
